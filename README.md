@@ -245,23 +245,6 @@ The lab also reinforced the importance of:
 
 ---
 
-# Screenshots
-
-> Add screenshots to the repository here.
-
-Suggested screenshots:
-
-1. SafeLine dashboard
-2. SafeLine application configuration
-3. DVWA login page over HTTPS
-4. Successful SQL injection attempts against backend
-5. Blocked SQL injection attempts through WAF
-6. SafeLine attack logs
-7. HTTP flood/rate limiting configuration
-8. IP blocking policy
-
----
-
 # Disclaimer
 
 DVWA is intentionally vulnerable and was deployed strictly inside an isolated virtual lab environment for educational and defensive security testing purposes.
